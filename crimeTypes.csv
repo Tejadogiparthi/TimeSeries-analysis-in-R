@@ -1,0 +1,249 @@
+  COMPLAINT OTHER                         ,x
+  DISCHARGING FIREARMS                    ,x
+  DISTURBANCE (OTHER)                     ,s
+  FIREWORKS                               ,x
+  FUGITIVE ATTTACHMENT                    ,x
+  MUNICIPAL ATTTACHME                     ,x
+  SIMPLE CRIMINAL DAMA                    ,s
+  SUSPICIOUS PERSON                       ,c
+  TRAFFIC INCIDENT                        ,x
+ AGGRAVATED ASSAULT                      ,s
+ AGGRAVATED ASSAULT D                    ,s
+ AGGRAVATED BATTERY                      ,s
+ AGGRAVATED BATTERY B                    ,s
+ AGGRAVATED BATTERY D                    ,s
+ AGGRAVATED BURGLARY                     ,s
+ AGGRAVATED CRIMINAL                     ,s
+ AGGRAVATED RAPE                         ,s
+ AGGRAVATED RAPE - MA                    ,s
+ AGGRIVATED ARRSON                       ,s
+ AMBULANCE REQUEST                       ,x
+ ARMED ROBBERY                           ,s
+ ARMED ROBBERY WITH G                    ,s
+ ARMED ROBBERY WITH K                    ,s
+ ATTACHMENT                              ,x
+ AUTO ACCIDENT                           ,c
+ AUTO ACCIDENT FATALI                    ,s
+ AUTO ACCIDENT WITH I                    ,s
+ AUTO THEFT                              ,s
+ BICYCLE THEFT                           ,s
+" BURGLAR ALARM, LOCAL                    ",s
+" BURGLAR ALARM, SILEN                    ",s
+ BUSINESS BURGLARY                       ,s
+ CAR JACKING                             ,s
+ CARNAL KNOWLEDGE OF                     ,s
+ CONTRIBUTING TO DELI                    ,s
+ CRIME AGAINST NATURE                    ,s
+ CRIMINAL MISCHIEF                       ,s
+ CRUELTY TO ANNIMALS                     ,s
+ DAILY WALKING BEAT L                    ,x
+ DEATH                                   ,s
+ DEATH-UNCLASSIFIED                      ,s
+ DIRECTED TRAFFIC ENF                    ,ss
+ DOMESTIC CRIMINAL DA                    ,s
+ DOMESTIC DISTURBANCE                    ,s
+ DRIVING WHILE UNDER                     ,s
+ DRUG VIOLATIONS                         ,s
+ DRUNK                                   ,x
+ EXTORTION (THREATS)                     ,s
+ FIGHT                                   ,s
+ FIRE                                    ,s
+ FORGERY                                 ,s
+ GAMBLING WITH DICE                      ,s
+ HIT & RUN                               ,s
+ HIT & RUN POLICE VEH                    ,s
+ HIT & RUN WITH INJU                     ,s
+ HOLD UP ALARM                           ,s
+ HOMELESS                                ,x
+ HOMICIDE                                ,s
+ HOMICIDE BY SHOOTING                    ,s
+ ILLEGAL CARRYING OF                     ,s
+ IMPERSONATING AN OFF                    ,s
+ INCIDENT REQUESTED B                    ,s
+ ISSUING WORTHLESS CH                    ,s
+ LOST OR STOLEN                          ,s
+ MENTAL PATIENT                          ,x
+ MISSING ADULT                           ,x
+" OBSCENITY ,EXPOSING                     ",s
+ OFFICER NEEDS ASSIST                    ,s
+ PICKPOCKET                              ,s
+ POLICE VEHICLE ACCID                    ,s
+ POSSESSION OF STOLEN                    ,s
+ PROSTITUTION                            ,s
+ PROWLER                                 ,s
+ RECKLESS DRIVING                        ,s
+ RECOVERY OF A PREVIO                    ,x
+ RECOVERY OF A VEHICL                    ,x
+ RESIDENCE BURGLARY                      ,s
+ RETURN FOR ADDITIONA                    ,s
+ SEXUAL BATTERY                          ,s
+ SHOPLIFTING                             ,s
+ SILENT E-911 CALL                       ,x
+ SIMPLE ARSON                            ,s
+ SIMPLE ASSAULT DOMES                    ,s
+ SIMPLE BATTERY                          ,s
+ SIMPLE BATTERY DOMES                    ,s
+ SIMPLE BURGLARY                         ,s
+ SIMPLE ROBBERY                          ,s
+ SIMPLE ROBBERY - PUR                    ,s
+ SIMULTANEOUS STOLEN/                    ,s
+ SUICIDE                                 ,s
+ THEFT                                   ,s
+ THEFT BY FRAUD                          ,s
+ THEFT FROM EXTERIOR                     ,s
+ THEFT FROM INTERIOR                     ,s
+ TRAFFIC ATTTACHMENT                     ,x
+ TRAFFIC CONGESTION                      ,s
+ UNAUTHORIZED USE OF                     ,s
+ VIOLATION OF PROTECT                    ,s
+ WARR STOP W RELEASE                     ,s
+248 Levels: ABANDON VEHICLE AGGRAVATED ARRSON ... SIMPLE RAPE MALE VICTIM,s
+ABANDON VEHICLE                         ,s
+ABANDONED VEHICLE                       ,s
+ABORTION                                ,s
+AGGRAVATED ARRSON                       ,s
+AGGRAVATED ARSON                        ,s
+AGGRAVATED ASSAULT DOMESTIC             ,s
+AGGRAVATED BATTERY BY KNIFE             ,s
+AGGRAVATED BATTERY BY SHOOTING          ,s
+AGGRAVATED BATTERY DOMESTIC             ,s
+AGGRAVATED CRIMINAL DAMAGE              ,s
+AGGRAVATED KIDNAPPIN                    ,s
+AGGRAVATED KIDNAPPING                   ,s
+AGGRAVATED RAPE MALE                    ,s
+AGGRAVATED RAPE MALE VICTIM             ,s
+AIRPLANE CRASH                          ,x
+ARMED ROBBERY WITH GUN                  ,s
+ARMED ROBBERY WITH KNIFE                ,s
+ASSET SEIZURE                           ,s
+AUTO ACCIDENT FATALITY                  ,s
+AUTO ACCIDENT WITH INJURY               ,c
+AUTO SMASH & GRAB                       ,s
+BLIGHTED PROPERTY                       ,s
+BOMB SCARE                              ,s
+"BURGLAR ALARM, SILENT                   ",s
+BUSINESS BUGLARY                        ,s
+CAD TEST                                ,s
+CAD TEST - DO NOT DI                    ,c
+CAR JACKING - NO WEA                    ,s
+CARJACKING                              ,s
+CARJACKING - NO WEAP                    ,s
+CARJACKING- NO WEAPON                   ,s
+CONTRIBUTING TO DELINQUENCY             ,s
+CRIMINAL DAMAGE DOME                    ,s
+CRIMINAL DAMAGE DOMESTIC                ,s
+CRIMINAL DAMANGE DOM                    ,s
+CRIMINAL MISCHIEF DO                    ,s
+CRIMINAL MISCHIEF DOMESTIC              ,s
+CRUELTY TO ANIMALS                      ,s
+CURFEW VIOLATION                        ,s
+DAILY WALKING BEAT LOG                  ,s
+DEMONSTRATION                           ,s
+DESCRICATION OF GRAV                    ,s
+DESECRATION OF GRAVE                    ,s
+DESECRATION OF GRAVES                   ,s
+DIRECTED TRAFFIC ENFORCEMENT            ,s
+DISBURSE SUBJECTS                       ,s
+DISCHARGING FIREARM                     ,s
+DISPERSE SUBJECTS                       ,s
+DRIVING WHILE UNDER INFLUENCE           ,s
+EXPLOSION                               ,s
+EXTORTION (THREATS) DOMESTIC            ,s
+FIRE BOMB                               ,s
+FIRE/RESCUE                             ,s
+FIREBOMB                                ,s
+FLOOD EVENT                             ,s
+FUGITIVE ATTACHMENT                     ,s
+GAMBLING                                ,s
+GAMBLING  WITH DICE                     ,s
+HIGHTEST SCRIPTS.                       ,s
+HIT & RUN  FATALITY                     ,s
+HIT & RUN  WITH INJU                    ,s
+HIT & RUN FATALITY                      ,s
+HIT & RUN POLICE VEHICLE                ,s
+HIT & RUN WITH INJUR                    ,s
+HIT & RUN WITH INJURIES                 ,s
+HOMICIDE BY CUTTING                     ,s
+HOMICIDE DOMESTIC                       ,s
+HOSTAGE SITUATION                       ,s
+ILLEGAL CARRYING OF WEAPON              ,s
+ILLEGAL CARRYING OF WEAPON- GUN         ,s
+ILLEGAL CARRYING OF WEAPON- KNIFE       ,s
+IMPERSONATING AN OFFICER                ,s
+INCIDENT REQUESTED BY ANOTHER AGENCY    ,s
+INDECENT BEHAVIOR                       ,s
+ISSUING WORTHLESS CHECKS                ,s
+LOST PROPERTY                           ,x
+MEDICAL                                 ,x
+MEET AN OFFICER                         ,s
+MISC ALL OTHER MISCE                    ,c
+MUNICIPAL  ATTTACHME                    ,x
+MUNICIPAL ATTACHMENT                    ,s
+NEGLIENT INJURY                         ,s
+NEGLIGENT INJURY                        ,s
+NOISE COMPLAINT                         ,s
+"OBSCENITY, EXPOSING                     ",s
+OFFICER NEED ASSISTA                    ,c
+OFFICER NEEDS ASSISTANCE                ,s
+"OFFICER NEEDS ASSISTANCE, LIFE IN DANGER",s
+ORAL SEXUAL BATTERY                     ,s
+PANDERING                               ,s
+PARADE ITEM NUMBER                      ,x
+PARADE ITEM NUMBERS                     ,c
+PEEPING TOM                             ,s
+PICKETING                               ,s
+POLICE VEHICLE ACCIDENT                 ,x
+POSSESSION OF STOLEN PROPERTY           ,s
+PROTEST                                 ,s
+PUBLIC BRIBERY                          ,s
+PUBLIC WORKS ENFORCE                    ,s
+RECOVERY OF REPORTED                    ,x
+RECOVERY OF REPORTED STOLEN VEHICLE     ,x
+RECOVERY OF VEHICLE                     ,x
+RETURN FOR ADDITIONAL INFO              ,x
+RETURN FOR ADD'L INF                    ,s
+SAFE BURGLARY                           ,s
+SIGNS                                   ,s
+SILENT 911 CALL                         ,x
+SIMPLE  ESCAPE                          ,s
+SIMPLE ARSON DOMESTIC                   ,s
+SIMPLE ASSAULT                          ,s
+SIMPLE ASSAULT DOMESTIC                 ,s
+SIMPLE BATTERY DOMESTIC                 ,s
+SIMPLE BURGLARY DOME                    ,s
+SIMPLE BURGLARY DOMESTIC                ,s
+SIMPLE BURGLARY VEHI                    ,s
+SIMPLE BURGLARY VEHICLE                 ,s
+SIMPLE CRIMINAL DAMAGE                  ,s
+SIMPLE ESCAPE                           ,s
+SIMPLE KIDNAPPING                       ,s
+SIMPLE RAPE                             ,s
+SIMPLE RAPE - MALE V                    ,s
+SIMPLE RAPE MALE VIC                    ,s
+SIMPLE RAPE MALE VICTIM                 ,s
+SIMPLE ROBBERY PROPE                    ,s
+"SIMPLE ROBBERY, PROPERTY SNATCHING      ",s
+SIMULTANEOS STOLEN/RECOVERY VEHICLE     ,s
+SOLICITING FOR PROST                    ,s
+SOLICITING FOR PROSTITUTION             ,s
+SUSPICIOUS PACKAGE                      ,c
+TEST INCIDENT                           ,c
+TEXT-TO-911 TESTING                     ,x
+THEFT BY EMBEZZLEMEN                    ,s
+THEFT BY EMBEZZLEMENT                   ,s
+TRAFFIC  ATTTACHMENT                    ,x
+TRAFFIC  INCIDENT                       ,x
+TRAFFIC ATTACHMENT                      ,s
+TRUANT VIOLATION                        ,s
+UNATTENDED PACKAGE                      ,c
+UNAUTHORIZED USE OF VEHICLE             ,s
+UNCLASSIFIED DEATH                      ,s
+UNDER AGE DRINKING V                    ,s
+UNDERAGE DRINKING VI                    ,s
+UNDERAGE DRINKING VIOLATION             ,s
+UNLAWFUL SALES TO MI                    ,s
+VEHICLE PURSUIT                         ,s
+VIOLATION OF PROTECTION ORDER           ,s
+VOTING/ELECTION EVEN                    ,s
+WARR STOP WITH RELEASE                  ,s
+WRECKLESS DRIVING                       ,s
